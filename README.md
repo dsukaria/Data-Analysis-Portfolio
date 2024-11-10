@@ -30,7 +30,17 @@ During my studies, I gained the skills to clean and process complex data and be 
 ### Python
 
 #### A Data-Driven Analysis of Movie Success
-**Code:** ['A Data-Driven Analysis of Movie Success.ipynb']()
+**Code:** [A Data-Driven Analysis of Movie Success.ipynb]()
+
+**Goal:**
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
     
 ### SQL
   - .
