@@ -19,8 +19,9 @@
 
 
 ## About
-Hi, I'm Daniel...
+I have a background in Medical Science and I am currently in the process of completing my graduate diploma in data science. Throughout this degree, I have developed skills and a passion for using data to uncover meaningful insights and patterns. I am exctied to apply my analytical skills in the data analytics field as an entry-level data analyst.
 
+During my studies, I gained the skills to clean and process complex data and be able to recognise patterns and trends, through exploratory data analysis. Whether I'm working independently or in a team environment, the excitement of uncovering new insights and solving complex problems through data analysis motivates me.
 
 
 ## Portfolio Projects
@@ -40,11 +41,22 @@ Hi, I'm Daniel...
 
 
 ## Education
+Western Sydney University                    2024-present
+##### Graduate Diploma in Data Science
+
+Western Sydney University                    2024
+##### Graduate Certificate in Data Science
+
+Western Sydney University                    2018-2021
+##### Bachelor in Medical Science
 
 ## Certificates
+Coursera                                     Nov 2024
+##### Google Data Analytics Professional Certificate
 
 ## Contact
-
+LinkedIn: [@danielsukaria](www.linkedin.com/in/daniel-sukaria-343826332)
+Email: danielsukaria@gmail.com 
 
 
 
