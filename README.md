@@ -4,7 +4,7 @@
 - [About](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#About)
 - [Portfolio Projects](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
   - Python
-    - 
+    - [A Data-Driven Analysis of Movie Success](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#A-Data-Driven-Analysis-of-Movie-Success)
     -   
   - SQL
     - 
@@ -28,7 +28,9 @@ During my studies, I gained the skills to clean and process complex data and be 
 ...
 
 ### Python
-  - .
+
+#### A Data-Driven Analysis of Movie Success
+**Code:** ['A Data-Driven Analysis of Movie Success.ipynb']()
     
 ### SQL
   - .
