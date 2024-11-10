@@ -41,21 +41,18 @@ During my studies, I gained the skills to clean and process complex data and be 
 
 
 ## Education
-Western Sydney University                    2024-present
-##### Graduate Diploma in Data Science
+Western Sydney University; Graduate Diploma in Data Science (2024-present)
 
-Western Sydney University                    2024
-##### Graduate Certificate in Data Science
+Western Sydney University; Graduate Certificate in Data Science (2024)
 
-Western Sydney University                    2018-2021
-##### Bachelor in Medical Science
+Western Sydney University; Bachelor in Medical Science (2018-2021)
 
 ## Certificates
-Coursera                                     Nov 2024
-##### Google Data Analytics Professional Certificate
+Coursera; Google Data Analytics Professional Certificate (Nov 2024)
 
 ## Contact
 LinkedIn: [@danielsukaria](www.linkedin.com/in/daniel-sukaria-343826332)
+
 Email: danielsukaria@gmail.com 
 
 
