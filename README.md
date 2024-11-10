@@ -1,6 +1,4 @@
 # Daniel Sukaria - Data Analyst Portfolio
-## About
-Hi, I'm Daniel...
 
 ## Table of Contents
 - [About](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#About)
@@ -18,6 +16,11 @@ Hi, I'm Daniel...
 - [Education](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Education)
 - [Certificates](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Certificates)
 - [Contact](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Contact)
+
+
+## About
+Hi, I'm Daniel...
+
 
 
 ## Portfolio Projects
