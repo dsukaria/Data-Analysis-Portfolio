@@ -51,7 +51,7 @@ Western Sydney University; Bachelor in Medical Science (2018-2021)
 Coursera; Google Data Analytics Professional Certificate (Nov 2024)
 
 ## Contact
-LinkedIn: [@danielsukaria](www.linkedin.com/in/daniel-sukaria-343826332)
+LinkedIn: [@danielsukaria](https://www.linkedin.com/in/daniel-sukaria-343826332)
 
 Email: danielsukaria@gmail.com 
 
