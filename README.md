@@ -60,7 +60,7 @@ Western Sydney University; Graduate Certificate in Data Science (2024)
 Western Sydney University; Bachelor in Medical Science (2018-2021)
 
 ## Certificates
-Coursera; Google Data Analytics Professional Certificate (Nov 2024)
+Coursera; Microsoft Power BI Data Analyst (Nov 2024-Present)
 
 ## Contact
 LinkedIn: [@danielsukaria](https://www.linkedin.com/in/daniel-sukaria-343826332)
