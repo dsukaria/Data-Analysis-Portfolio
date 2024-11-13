@@ -25,7 +25,6 @@ During my studies, I gained the skills to clean and process complex data and be 
 
 
 ## Portfolio Projects
-...
 
 ### Python
 
@@ -43,13 +42,13 @@ During my studies, I gained the skills to clean and process complex data and be 
 **Results:**
     
 ### SQL
-  - .
+  - 
 
 ### R
-  - .
+  - 
 
 ### Power BI
-  - .
+  - 
 
 
 ## Education
