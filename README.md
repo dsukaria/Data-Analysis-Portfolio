@@ -35,7 +35,7 @@ During my studies, I gained the skills to clean and process complex data and be 
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:**
+**Results:** This analysis revealed that the most signficant factors which contribute to the success of a movie were the movie's domestic opening, as well as the budget.
     
 ### SQL
   - 
