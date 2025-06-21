@@ -8,6 +8,7 @@
   - SQL
     - 
   - Power BI
+    - 
 - [Education](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Education)
 - [Certificates](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Certificates)
 - [Contact](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Contact)
@@ -37,9 +38,6 @@ During my studies, I gained the skills to clean and process complex data and be 
 **Results:**
     
 ### SQL
-  - 
-
-### R
   - 
 
 ### Power BI
