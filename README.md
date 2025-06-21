@@ -27,13 +27,13 @@ During my studies, I gained the skills to clean and process complex data and be 
 #### A Data-Driven Analysis of Movie Success
 **Code:** [A Data-Driven Analysis of Movie Success.ipynb](https://github.com/dsukaria/Projects/blob/main/A%20Data-Driven%20Analysis%20of%20Movie%20Success.ipynb)
 
-**Goal:**
+**Goal:** By performing a data analysis using Python, the aim of this project is to identify and understand the key factors that contribute to a movie's financial success, by analysing factors such as budget, running time and the release dates to uncover patterns and insights.
 
 **Description:**
 
-**Skills:**
+**Skills:** data cleaning, data analysis, correlation matrices, data visualization.
 
-**Technology:**
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 **Results:**
     
