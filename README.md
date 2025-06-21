@@ -4,14 +4,9 @@
 - [About](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#About)
 - [Portfolio Projects](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Portfolio-Projects)
   - Python
-    - [A Data-Driven Analysis of Movie Success](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#A-Data-Driven-Analysis-of-Movie-Success)
-    -   
+    - [A Data-Driven Analysis of Movie Success](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#A-Data-Driven-Analysis-of-Movie-Success) 
   - SQL
     - 
-    - 
-  - R
-    - 
-  - Tableau---> [go to Tableau..]()
   - Power BI
 - [Education](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Education)
 - [Certificates](https://github.com/dsukaria/Data-Analysis-Portfolio/blob/main/README.md#Certificates)
@@ -52,14 +47,12 @@ During my studies, I gained the skills to clean and process complex data and be 
 
 
 ## Education
-Western Sydney University; Graduate Diploma in Data Science (2024-present)
-
-Western Sydney University; Graduate Certificate in Data Science (2024)
+Western Sydney University; Graduate Diploma in Data Science (2025)
 
 Western Sydney University; Bachelor in Medical Science (2018-2021)
 
 ## Certificates
-Coursera; Microsoft Power BI Data Analyst (Nov 2024-Present)
+Coursera; Microsoft Power BI Data Analyst (2025)
 
 ## Contact
 LinkedIn: [@danielsukaria](https://www.linkedin.com/in/daniel-sukaria-343826332)
